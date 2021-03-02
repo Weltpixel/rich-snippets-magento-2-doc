@@ -1,0 +1,1 @@
+# rich-snippets-magento-2-doc
