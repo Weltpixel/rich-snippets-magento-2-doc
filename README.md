@@ -1,3 +1,4 @@
+# test-doc
 <h1><a href="https://www.weltpixel.com/magento2-google-rich-cards-free-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Rich Snippets(Schema.Org Structured Data) by Weltpixel.</a></h1>
 <br/><br/>
 <table>
@@ -275,8 +276,10 @@ Rich Pins work by displaying metadata from marked up pages on your website. Once
                             <ul>
                                 <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
                                 <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+<br
+<table>
+<tr>
                                 <td width="100%">
-                                  <tr>
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO ENABLE & CONFIGURE ATTRIBUTE SETTINGS IN MAGENTO?</h2>
   <p>
@@ -339,11 +342,11 @@ Rich Pins work by displaying metadata from marked up pages on your website. Once
   <strong>Use Breadcrumb Snippet</strong> - Add data related to Breadcrumbs to structured data. A breadcrumb trail on a page indicates the page's position in the site hierarchy. A user can navigate all the way up in the site hierarchy, one level at a time, by starting from the last breadcrumb in the breadcrumb trail.
 </li>
 </ul>
+
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-rich-snippets-pro/img_2.png"></p>
 </div>
   </td>
  </tr>
-
                                <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -364,7 +367,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Sitelinks Searchbox</s
   </td>
  </tr>
 
-                                <tr>
+ <tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">How to Enable Logo Rich Snippets & Cards in Magento?</h2>
@@ -389,8 +392,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Rich Snippets & Cards 
 </div>
   </td>
  </tr>
-
-                                <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO ENABLE CORPORATE CONTACT RICH SNIPPETS & CARDS IN MAGENTO?</h2>
@@ -421,8 +423,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Rich Snippets & Cards 
 </div>
   </td>
  </tr>
-
-                                 <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO IMPLEMENT RICH SNIPPETS FOR SOCIAL MEDIA IN MAGENTO?</h2>
@@ -466,8 +467,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Rich Snippets & Cards 
 </div>
   </td>
  </tr>
-
-                                 <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO CONFIGURE TWITTER CARDS SETTINGS IN MAGENTO?</h2>
@@ -492,8 +492,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Twitter Cards Settings
 </div>
   </td>
  </tr>
-
-                                  <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO CONFIGURE FACEBOOK OPEN GRAPH SETTINGS IN MAGENTO?</h2>
@@ -515,8 +514,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Facebook Open Graph Se
 </div>
   </td>
  </tr>
-
-                                   <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO CONFIGURE PINTEREST RICH PINS SETTINGS IN MAGENTO?</h2>
@@ -532,8 +530,7 @@ Go to <strong>Admin > WeltPixel > Rich Snippets & Cards > Pinterest Rich Pins Se
 </div>
   </td>
  </tr>
-
-                                    <tr>
+<tr>
   <td width="100%">
       <div class="col-md-6">
 <h2 style="font-weight: 600;">HOW TO SET UP SCHEMA.ORG STRUCTURED DATA?</h2>
